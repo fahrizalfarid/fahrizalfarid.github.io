@@ -591,7 +591,7 @@
 
                             <div>
                                 <h1 class="skills__title">Big Data</h1>
-                                <span class="skills__subtitle">3 Months</span>
+                                <span class="skills__subtitle">2 Months</span>
                                 <!-- october 2022 -->
                             </div>
 
@@ -1021,11 +1021,11 @@
                                 <h3 class="portofolio__title">Backend - Machine Learning</h3>
                                 <p class="portofolio__description">Language Modelling for Bahasa Indonesia.</p>
                                 <p class="portofolio__description">(NLP - Python)</p>
-                                <!-- <a href="https://lontong-sayur.herokuapp.com" target="_blank" rel="noopener noreferrer"
+                                <a href="https://lontong-sayur.herokuapp.com" target="_blank" rel="noopener noreferrer"
                                     class="button button--flex button--small portofolio__button">
                                     Demo
                                     <i class="uil uil-arrow-right button__icon"></i>
-                                </a> -->
+                                </a>
                             </div>
                         </div>
 
@@ -1037,11 +1037,11 @@
                                 <h3 class="portofolio__title">Backend - Machine Learning</h3>
                                 <p class="portofolio__description">Emotion Analysis in Bahasa Indonesia.</p>
                                 <p class="portofolio__description">(NLP - Python)</p>
-                                <!-- <a href="https://lontong-sayur.herokuapp.com" target="_blank" rel="noopener noreferrer"
+                                <a href="https://lontong-sayur.herokuapp.com" target="_blank" rel="noopener noreferrer"
                                     class="button button--flex button--small portofolio__button">
                                     Demo
                                     <i class="uil uil-arrow-right button__icon"></i>
-                                </a> -->
+                                </a>
                             </div>
                         </div>
 
@@ -1053,11 +1053,11 @@
                                 <h3 class="portofolio__title">Backend - Machine Learning</h3>
                                 <p class="portofolio__description">Yelena in Bahasa Indonesia.</p>
                                 <p class="portofolio__description">(NLP - Python)</p>
-                                <!-- <a href="https://yelena-voice.herokuapp.com" target="_blank" rel="noopener noreferrer"
+                                <a href="https://yelena-voice.herokuapp.com" target="_blank" rel="noopener noreferrer"
                                     class="button button--flex button--small portofolio__button">
                                     Demo
                                     <i class="uil uil-arrow-right button__icon"></i>
-                                </a> -->
+                                </a>
                             </div>
                         </div>
 
@@ -1069,11 +1069,11 @@
                                 <h3 class="portofolio__title">Backend</h3>
                                 <p class="portofolio__description">IoT Datastream for Extreme Performance.</p>
                                 <p class="portofolio__description">(IoT - Golang)</p>
-                                <!-- <a href="#" target="_blank" rel="noopener noreferrer"
+                                <a href="#" target="_blank" rel="noopener noreferrer"
                                     class="button button--flex button--small portofolio__button">
                                     Demo
                                     <i class="uil uil-arrow-right button__icon"></i>
-                                </a> -->
+                                </a>
                             </div>
                         </div>
 
@@ -1085,11 +1085,11 @@
                                 <h3 class="portofolio__title">Backend</h3>
                                 <p class="portofolio__description">Report Service.</p>
                                 <p class="portofolio__description">(IoT - Golang)</p>
-                                <!-- <a href="#" target="_blank" rel="noopener noreferrer"
+                                <a href="#" target="_blank" rel="noopener noreferrer"
                                     class="button button--flex button--small portofolio__button">
                                     Demo
                                     <i class="uil uil-arrow-right button__icon"></i>
-                                </a> -->
+                                </a>
                             </div>
                         </div>
 
@@ -1101,11 +1101,11 @@
                                 <h3 class="portofolio__title">Backend</h3>
                                 <p class="portofolio__description">Chatting Service.</p>
                                 <p class="portofolio__description">(Golang)</p>
-                                <!-- <a href="https://fahri-zal.herokuapp.com/chat" target="_blank" rel="noopener noreferrer"
+                                <a href="https://fahri-zal.herokuapp.com/chat" target="_blank" rel="noopener noreferrer"
                                     class="button button--flex button--small portofolio__button">
                                     Demo
                                     <i class="uil uil-arrow-right button__icon"></i>
-                                </a> -->
+                                </a>
                             </div>
                         </div>
 
@@ -1117,11 +1117,11 @@
                                 <h3 class="portofolio__title">Backend</h3>
                                 <p class="portofolio__description">Video Streaming Service.</p>
                                 <p class="portofolio__description">(Golang)</p>
-                                <!-- <a href="https://fahri-zal.herokuapp.com/play" target="_blank" rel="noopener noreferrer"
+                                <a href="https://fahri-zal.herokuapp.com/play" target="_blank" rel="noopener noreferrer"
                                     class="button button--flex button--small portofolio__button">
                                     Demo
                                     <i class="uil uil-arrow-right button__icon"></i>
-                                </a> -->
+                                </a>
                             </div>
                         </div>
 
